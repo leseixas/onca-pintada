@@ -3,8 +3,8 @@
 <a href="https://github.com/seixasgroup/oncapintada" target="_blank" rel="noopener noreferrer">
   <picture>
     <source srcset="https://raw.githubusercontent.com/seixasgroup/oncapintada/refs/heads/main/logo/logo_dark.png" media="(prefers-color-scheme: dark)">
-    <source srcset="https://raw.githubusercontent.com/seixasgroup/oncapintada/refs/heads/main/logo/logo_light.png" media="(prefers-color-scheme: light)">
-    <img src="https://raw.githubusercontent.com/seixasgroup/oncapintada/refs/heads/main/logo/logo_light.png" alt="Carcará logo" style="height: auto; width: auto; max-height: 100px;">
+    <source srcset="https://raw.githubusercontent.com/seixasgroup/oncapintada/refs/heads/main/logo/logo_orange.png" media="(prefers-color-scheme: light)">
+    <img src="https://raw.githubusercontent.com/seixasgroup/oncapintada/refs/heads/main/logo/logo_orange.png" alt="Onça-pintada logo" style="height: auto; width: auto; max-height: 100px;">
   </picture>
 </a>
 </h1> 
